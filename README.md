@@ -3,8 +3,8 @@
 An interactive program designed to guide people to making a safe and secure password, with options like pseudorandomization and password length selection given to the user. Run PasswordRunner2 to begin! :)
 
 # What I Learned
-• Class hiearchy (Inheritance, Abstraction, Accessing class attributes)
+• Class hierarchy (Inheritance, Abstraction, Accessing class attributes)
 
 • Data validation (Reading input, Checking input, Wwitch statements)
 
-• Program process (Reprompting user until correct input is received) 
+• Operation logic (Reprompting user until correct input is received, Program runs until all conditons are met) 
